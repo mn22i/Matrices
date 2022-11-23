@@ -23,7 +23,7 @@ The Addition of two matrix is :
 6 8
 10 12
 
-int i, j, n;
+            int i, j, n;
             int[,] arr1 = new int[50, 50];
             int[,] brr1 = new int[50, 50];
             int[,] crr1 = new int[50, 50];
